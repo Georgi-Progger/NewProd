@@ -4,6 +4,5 @@ namespace ASPProd.Models
 {
     public class User : IdentityUser
     {
-
     }
 }
